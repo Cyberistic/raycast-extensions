@@ -153,7 +153,7 @@ sudo pacman -S xdotool
 ## Icon Setup
 
 You need to add an icon file to the root directory:
-- File name: `command-icon.png`
+- File name: `extension-icon.png`
 - Recommended size: 512x512px
 - See `assets/README.md` for more information
 
