@@ -119,7 +119,7 @@ print("Fast typing!")[speed:default][0.5][escape]
 
 ## Important Missing Features
 
-This extension does NOT support stopping the typing once it has started. Please be cautious when using it, as it will continue typing until the end of the script is reached. I have tested multiple ways to implement a stop feature, but they were all inconsisstent! PRs are welcome if you can find a reliable method.
+This extension does NOT support stopping the typing once it has started. Please be cautious when using it, as it will continue typing until the end of the script is reached. I have tested multiple ways to implement a stop feature, but they were all inconsistent! PRs are welcome if you can find a reliable method.
 
 ## Contributing
 
