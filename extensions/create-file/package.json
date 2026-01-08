@@ -2,7 +2,7 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "create-file",
   "title": "Create File",
-  "description": "Quickly create files with names and extensions",
+  "description": "Brings the ability to create empty files to Mac! No longer will you have to open a terminal and do `touch <filename>`! Also, has an option to create an empty file straight to clipboard.",
   "icon": "extension-icon.png",
   "author": "cyberistic",
   "platforms": [

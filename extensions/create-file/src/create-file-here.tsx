@@ -17,12 +17,6 @@ export default async (props: LaunchProps<{ arguments: CreateFileHereArguments }>
   await closeMainWindow();
 
   try {
-    const preferences = getPreferenceValues<Preferences.CreateFileHere>();
-
-export default async (props: LaunchProps<{ arguments: CreateFileHereArguments }>) => {
-  await closeMainWindow();
-
-  try {
     const preferences = getPreferenceValues<Preferences>();
 
     // Parse the filename
